@@ -1,5 +1,5 @@
 ## :triangular_ruler: Madlibs
-
+- Generate fun stories
 ## :exclamation: Dependecies
   ```
   pip3 install colorama
